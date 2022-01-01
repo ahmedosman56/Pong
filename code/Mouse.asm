@@ -1,6 +1,3 @@
-;Author:Omar Bazaraa
-;Date:29-10-2016
-;Macros for some mouse interrupts
 ;----------------------------------------------
 
 ;Check for mouse connection: AX=mouse_status (FFFF if mouse connected)
